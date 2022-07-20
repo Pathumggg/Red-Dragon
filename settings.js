@@ -22,12 +22,12 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94760601107'] //Owner number in aive msg
-global.premium = ['+94760390292'] //Owner Number info
-global.ownernomer = '+94760390292' //Owner Number <<<
+global.owner = ['+94760390292'] //Owner number in aive msg
+global.premium = ['+94741388320'] //Owner Number info
+global.ownernomer = '+94741388320' //Owner Number <<<
 
-global.ownername = '😎pathum❤' //Owner Name
-global.botname = ' ☬pathum🥰🥰🙈🙈' //Bot Name
+global.ownername = '꧁𝕷𝖀⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢𝕱𝕴𖡹𝙺𝙰𝚆𝙸𝙽𝙳𝙰𖡹𝕷𝖀⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢𝕱𝕴꧂' //Owner Name
+global.botname = ' ☬꧁𝕷𝖀⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢𝕱𝕴𖡹𝙺𝙰𝚆𝙸𝙽𝙳𝙰𖡹𝕷𝖀⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢𝕱𝕴꧂🥰🥰🙈🙈' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
